@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   
+<jnlp   spec="1.0+" 
+
+    codebase="http://localhost:8080/serverForFileArchiver"    
+    href="fileArchiverMain.jnlp" > 
+   
+    <resources>
+        <j2se version="1.3+"/>  
+<!--Указание необходимой версии JDK приложения-->
+
+        <jar href="Archiver-0.0.1-configFileArchiver.jar" main="true"/>
+<!--Файлы нашего клиентского приложения-->
+        <jar href="activation-1.1.jar" />
+        <jar href="Archiver-0.0.1-fileArchiver.jar"/>
+        <jar href="commons-logging-1.1.1.jar"/>       
+        <jar href="mail-1.4.3.jar"/>     
+        <jar href="spring-2.5.6.jar"/>                
+    </resources>
+    <application-desc main-class="dk.truelink.ext.folder.configarchiver.BeginMainConfigWindow" /> 
+  <-- Название класса с main() точкой запуска -->
+</jnlp>
