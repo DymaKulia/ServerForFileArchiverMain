@@ -7,15 +7,15 @@
 
 	<mime-mapping>
 		<extension>jnlp</extension>
-		<mime-type>ServerForFileArchiverMain/x-java-jnlp-file</mime-type>
+		<mime-type>application/x-java-jnlp-file</mime-type>
 	</mime-mapping>
 	<mime-mapping>
 		<extension>jar</extension>
-		<mime-type>ServerForFileArchiverMain/x-java-archive</mime-type>
+		<mime-type>application/x-java-archive</mime-type>
 	</mime-mapping>
 	<mime-mapping>
 		<extension>jardiff</extension>
-		<mime-type>ServerForFileArchiverMain/x-java-archive-diff</mime-type>
+		<mime-type>application/x-java-archive-diff</mime-type>
 	</mime-mapping>
 
 	<servlet>

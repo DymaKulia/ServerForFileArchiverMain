@@ -12,6 +12,12 @@
 	<ul>
 		<li>FileArchiverMain 1.0.0 : <a href="fileArchiverMain.jnlp">download</a>
 	</ul>
+	<h3>
+		<center>FileArchiver Configure Application</center>
+	</h3>
+	<ul>
+		<li>ConfigFileArchiverMain 1.0.0 : <a href="fileArchiverConfiguration.jnlp">download</a>
+	</ul>
 
 </body>
 </html>
