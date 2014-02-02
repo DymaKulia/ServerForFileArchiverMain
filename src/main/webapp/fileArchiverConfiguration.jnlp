@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+   
+<jnlp   spec="1.0+" codebase="http://localhost:8080/ServerForFileArchiver"    
+    href="fileArchiverMain.jnlp" > 
+   
+   <information>
+        <offline-allowed/>
+        <title>ArchiverConfiguration</title>
+        <vendor>TrueLink</vendor>
+        <homepage href="http://localhost:8080/ServerForFileArchiver" />
+        <description>ArchiverConfiguration</description>
+   </information>
+   
+   
+   <security>
+          <all-permissions/>
+   </security>
+   
+    <resources>
+        <j2se version="1.6+"/>
+        <jar href="Archiver-0.0.1-archiverConfig.jar" main="true"/>                  
+    </resources>
+    <application-desc main-class="dk.truelink.ext.folder.configarchiver.BeginMainConfigWindow" /> 
+  
+</jnlp>
