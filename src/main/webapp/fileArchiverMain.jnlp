@@ -5,10 +5,10 @@
    
    <information>
         <offline-allowed/>
-        <title>Archiver</title>
+        <title>FileArchiverMain</title>
         <vendor>TrueLink</vendor>
         <homepage href="http://localhost:8080/ServerForFileArchiver" />
-        <description>Archiver</description>
+        <description>FileArchiverMain</description>
    </information>
    
    

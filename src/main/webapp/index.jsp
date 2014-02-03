@@ -18,6 +18,9 @@
 	<ul>
 		<li>ConfigFileArchiverMain 1.0.0 : <a href="fileArchiverConfiguration.jnlp">download</a>
 	</ul>
+	<ul>
+		<li>Certificate : <a href="Dyma.cer">download</a>
+	</ul>
 
 </body>
 </html>

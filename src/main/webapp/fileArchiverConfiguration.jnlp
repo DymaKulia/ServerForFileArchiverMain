@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
    
 <jnlp   spec="1.0+" codebase="http://localhost:8080/ServerForFileArchiver"    
-    href="fileArchiverMain.jnlp" > 
+    href="fileArchiverConfiguration.jnlp" > 
    
    <information>
         <offline-allowed/>
-        <title>ArchiverConfiguration</title>
+        <title>ConfigFileArchiverMain</title>
         <vendor>TrueLink</vendor>
         <homepage href="http://localhost:8080/ServerForFileArchiver" />
-        <description>ArchiverConfiguration</description>
+        <description>ConfigFileArchiverMain</description>
    </information>
    
    
